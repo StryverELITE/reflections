@@ -1,5 +1,14 @@
-What happens when you initialize a repository? Why do you need to do it?
+1. What happens when you initialize a repository? Why do you need to do it?
 
-git init = creates .git folder to hold information about past versions of the directory
+	git init = creates .git folder to hold information about past versions of the directory
 
-it is needed for development in cases where previous versions may help track down "bugs"
+	it is needed for development in cases where previous versions may help track down "bugs"
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Staging area is where changes are made. Working directory is where current position is. 
+
+	Staging is valuable because it contains changes without affecting the working area.
+
+
+i think i got some new stuff working
